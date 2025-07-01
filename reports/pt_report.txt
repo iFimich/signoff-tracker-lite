@@ -1,0 +1,6 @@
+Startpoint: U1/A (rising edge-triggered flip-flop clocked by CLK)
+  Endpoint: U2/Z (rising edge-triggered flip-flop clocked by CLK)
+  Path Group: clk
+  slack (VIOLATED) : -0.45
+  slack (VIOLATED) : -0.12
+  slack : 0.80

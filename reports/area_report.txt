@@ -1,0 +1,3 @@
+Design Name: block_top
+Total cell area: 14567.89
+Instance count: 1053

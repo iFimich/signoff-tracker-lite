@@ -1,0 +1,11 @@
+slack,violations,area,class
+-0.45,3,15000,Failing
+0.1,0,12000,Ready
+-0.05,1,14000,Needs Review
+-0.25,2,16000,Failing
+0.25,0,11000,Ready
+-0.15,1,13500,Needs Review
+0.12,0,12500,Ready
+-0.4,3,15500,Failing
+0.08,0,11900,Ready
+-0.1,2,13800,Needs Review
